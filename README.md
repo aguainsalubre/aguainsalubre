@@ -54,26 +54,15 @@ I'm a Software Engineering student, currently working on hands-on projects with 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aguainsalubre&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-</p>
-
----
-
 ### 📫 Contact
 
 <p align="left">
   <a href="https://github.com/aguainsalubre"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/sofiagroke/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:sofiagroke@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<!--
-  Tip: add your LinkedIn, email, or portfolio links here whenever you'd like, e.g.:
-  <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+  
 -->
 
----
-
-<p align="center"><i>Thanks for stopping by! ⭐ feel free to star the projects you like.</i></p>
