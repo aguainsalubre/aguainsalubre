@@ -63,6 +63,3 @@ I'm a Software Engineering student, currently working on hands-on projects with 
 </p>
 
 
-  
--->
-
