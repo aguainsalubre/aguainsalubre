@@ -57,8 +57,8 @@ I'm a Software Engineering student, currently working on hands-on projects with 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aguainsalubre&show_icons=true&theme=default&hide_title=false" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aguainsalubre" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aguainsalubre&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=aguainsalubre&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
